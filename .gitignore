@@ -1,5 +1,7 @@
 # Answer key notebook folder
 keys/
+key/
+_key*
 
 # Data files too large for GitHub
 data/uber-raw-data-janjune-15.csv
